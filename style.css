@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(53, 206, 78);
+   
+}
+
+header {
+    background-color: rgb(216, 6, 6);
+}
+
+.button {
+    
+}
+
+nav {
+   
+    
+}
+nav {
+
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.nav-link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 24px;
+    color:white;
+}
+
+h1 {
+color:blue;
+}
+
+p {
+    font-size: 20px;
+    color:blue;
+}
+
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:40px;
+    padding: 20px;
+} 
+   
+
+
+article {
+   background-color: aqua;
+   padding: 20px;
+   border: 2px solid red;
+   border-radius: 10px;
+   width: 350px;
+   text-align: center;
+}
+
+.article-but {
+    
+}
+
+footer {
+  background-color: rgb(216, 6, 6);
+
+}
+
+footer a {
+    
+}
+
+footer p {
+
+}
+header h1{
+    text-align: center;
+}
+
+h2{
+    color: blue;
+}
+h1{
+    text-align: center;
+}
+.info{
+display: flex;
+width: 50%;
+
+}
+.foto{
+    width: 300px;
+    margin: 20px;
+}
+.aboutt{display: flex;
+
+}
